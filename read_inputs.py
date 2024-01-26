@@ -161,7 +161,7 @@ async def main(address):
 #data: 9e35fa01-4344-44d4-a2e2-0c7f6046878b, 9e35fa01-4344-44d4-a2e2-0c7f6046878b
 
 if __name__ == "__main__":
-	address = "C6:41:41:93:4B:73" #this is the address of my specific flypad
+	address = "C6:41:41:92:E7:FD" #this is the address of my specific flypad
 	global gamepad
 	gamepad = vg.VX360Gamepad()
 	global current_state
